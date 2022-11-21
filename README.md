@@ -24,11 +24,11 @@ HTML, CSS, Javascript
 
 
 ## 3rd Party APIs
-- JQuery
-- dayJS 
-- Bootstrap 
-- font awesome 
-- google fonts
+- [JQuery](https://jquery.com/)
+- [dayJS](https://day.js.org/) 
+- [Bootstrap](https://getbootstrap.com/) 
+- [font awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 
 
