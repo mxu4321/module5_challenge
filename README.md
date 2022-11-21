@@ -4,7 +4,7 @@
 Third-Party APIs Challenge: Work Day Scheduler
 
 
-## Proejct Description
+## Project Description
 
 - When user opened the scheduler, the current date and time is displaying at the top
 - When user scrolled down, user will be presented standard business hours from 9 am to 5 pm
